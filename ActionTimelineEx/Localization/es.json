@@ -1,5 +1,5 @@
 {
-  "ActionTimelineEx.DescriptionAboutCommand": "Opens the ActionTimeline configuration window.",
+  "ActionTimelineEx.DescriptionAboutCommand": "Opens the ActionTimelineEx configuration window.",
   "ActionTimeline.SettingsName.Record": "Record Data",
   "ActionTimeline.SettingsName.ShowTimelineOnlyInDuty": "Show Only In Duty",
   "ActionTimeline.SettingsName.ShowTimelineOnlyInCombat": "Show Only In Combat",
@@ -8,6 +8,7 @@
   "ActionTimeline.SettingsName.SayClipping": "Say Clipping Time",
   "ActionTimeline.SettingsName.ClippintTime": "Clipping Range",
   "ActionTimeline.SettingsName.RecordTargetStatus": "Record Target Status",
+  "ActionTimeline.SettingsName.ShowDonate": "Show the donate link.",
   "ActionTimelineEx.Configurations.DrawingSettingsName.Name": "The timeline Name",
   "ActionTimelineEx.Configurations.DrawingSettingsName.Enable": "Enable",
   "ActionTimelineEx.Configurations.DrawingSettingsName.IsRotation": "Is Rotation",
@@ -81,6 +82,8 @@
   "ActionTimelineEx.Configurations.UiString.Wait": "Please wait for a second.",
   "ActionTimelineEx.Configurations.UiString.Confirm": "Are you sure to remove this timeline?",
   "ActionTimelineEx.Configurations.UiString.Remove": "Click to remove this timeline.",
+  "ActionTimelineEx.Configurations.UiString.AddOne": "Add One Timeline",
+  "ActionTimelineEx.Configurations.UiString.RemoveDesc": "Remove this Item:",
   "XIVConfigUI.LocalString.Search_Result": "Search Result",
   "XIVConfigUI.LocalString.Searching": "Search... ",
   "XIVConfigUI.LocalString.Search": "Search",
@@ -94,12 +97,5 @@
   "XIVConfigUI.Attributes.ConfigUnitType.Degree": "Angle Unit, in degrees.",
   "XIVConfigUI.Attributes.ConfigUnitType.Yalms": "Distance Unit, in yalms.",
   "XIVConfigUI.Attributes.ConfigUnitType.Percent": "Ratio Unit, as percentage.",
-  "XIVConfigUI.Attributes.ConfigUnitType.Pixels": "Display Unit, in pixels.",
-  "ActionTimelineEx.Punchline": "Show your actions in real-time.",
-  "ActionTimeline.Windows.SettingsWindow+TimelineItem": "ActionTimeline.Windows.SettingsWindow+TimelineItem",
-  "ActionTimelineEx.Description": "Configurable timeline display of all the actions you use.",
-  "ActionTimelineEx.Configurations.UiString.AddOne": "Add One Timeline",
-  "ActionTimelineEx.Configurations.UiString.RemoveDesc": "Remove this Item:",
-  "ActionTimeline.Windows.SettingsWindow+AddOne": "AddOne",
-  "ActionTimeline.Windows.SettingsWindow+ChangeLog": "ChangeLog"
+  "XIVConfigUI.Attributes.ConfigUnitType.Pixels": "Display Unit, in pixels."
 }
